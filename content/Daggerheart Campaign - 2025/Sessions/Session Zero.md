@@ -16,7 +16,7 @@ This is an acronym used in the Daggerheart Core Rulebook(_pg. 169_) to help make
 ### Concept
 > What’s the big-picture pitch? If this campaign was a book series, how would you hype it up to a friend you know would love it?… [This is] a great way to set a guiding star for your creative discussion throughout Session Zero and Beyond.
 Zxhm
-[[Daggerheart_Core_Rulebook-5-20-2025.pdf#page=170&selection=117,38,122,41|Daggerheart_Core_Rulebook-5-20-2025, page 170]]
+_(Daggerheart_Core_Rulebook-5-20-2025, page 170)_
 
 ### Aim
 
