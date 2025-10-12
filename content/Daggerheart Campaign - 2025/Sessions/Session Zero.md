@@ -46,6 +46,7 @@ _(Daggerheart_Core_Rulebook-5-20-2025, page 171)_
 Read more about these tools on the [Daggerheart Website](https://www.daggerheart.com/sessionzero)
 
 # Character Creation
+
 ## Character Experiences
 
 ## Relationships With Other PCs
