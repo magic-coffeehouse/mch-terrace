@@ -37,7 +37,7 @@ Deciding when to check in to see if we still like playing the campaign, if we wa
 ### Subject
 > Discuss subjects you and the players actively want in the game and topics you want to avoid. Subjects to avoid can be broad themes, such as bigotry and torture, or specific elements, such as spiders or a particular name that carries emotional weight for a player.
 
-[[Daggerheart_Core_Rulebook-5-20-2025.pdf#page=171&selection=96,0,104,29|Daggerheart_Core_Rulebook-5-20-2025, page 171]]
+_(Daggerheart_Core_Rulebook-5-20-2025, page 171)_
 
 #### Lines And Veils
 
