@@ -8,6 +8,6 @@ Welcome to the back patio for [Magic Coffeehouse](https://magiccoffee.house)! In
 
 # Entry Points
 From here you could
-- **Explore [[MCH Projects|Projects]] being developed**
-- **Discover [[Ideas]] being shared in public**
-- **Something else not yet written**
+- **Explore [[MCH Projects|Projects]] being developed.**
+- **Discover [[Ideas]] being shared in public.**
+- **Something else not yet written.**
