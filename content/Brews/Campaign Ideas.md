@@ -7,7 +7,7 @@ enableToc: false
 tags:
   - MapOfContent
   - Games/RolePlay
-  - admin/exploreexclude
+  - admin/explore-exclude
 aliases:
 ---
 These are some ideas I had for our upcoming Campaign. Feel free to suggest changes to better suit the desires of the group.

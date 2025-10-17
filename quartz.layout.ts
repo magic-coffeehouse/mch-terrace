@@ -1,6 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+
+const tagsToRemove = ["graph-exclude", "admin/explore-exclude", "backlinks-exclude", "recents-exclude", "search-exclude"]
+
+const tagListConfig = {
+  excludeTags: tagsToRemove
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -22,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    Component.TagList(tagListConfig),
   ],
   left: [
     Component.PageTitle(),
@@ -40,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
   filterFn: (node) => {
     // exclude files with the tag "explorerexclude"
-    return node.data?.tags?.includes("admin/exploreexclude") !== true
+    return node.data?.tags?.includes("admin/explore-exclude") !== true
   },
 }),
   ],
@@ -69,7 +76,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
   filterFn: (node) => {
     // exclude files with the tag "explorerexclude"
-    return node.data?.tags?.includes("admin/exploreexclude") !== true
+    return node.data?.tags?.includes("admin/explore-exclude") !== true
   },
 })
   ],
