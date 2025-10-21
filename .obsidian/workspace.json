@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "99947030c5ea7eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d138925d8cc1da75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9afd6022edb5ce1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e23da279f0130090",
+    "type": "split",
+    "children": [
+      {
+        "id": "846c3828418d2cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b86f705d9e8f6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f1a922c30f5f95e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb56ba61cf1802f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8146841ad162b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e15ca3dc55c31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cb93137478b6274",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2047d38effd4692e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a87c6e31c79f60ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a22e2dab1c91bac4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a9afd6022edb5ce1",
+  "lastOpenFiles": [
+    "content/Ideas/Why Make A Digital Garden.md",
+    "content/Ideas/The First Choice Is What To Play.md",
+    "content/Ideas/Publishing Process.md",
+    "content/Ideas/Journey Through Note Taking.md",
+    "content/Ideas/Challenges with Publishing Process.md",
+    "content/Ideas",
+    "content/assets/Obsidian_Graph_View_2025-10-11.png",
+    "content/assets",
+    "content/Thoughts/Why Make A Digital Garden.md",
+    "content/Thoughts/Publishing Process.md",
+    "content/Thoughts/The First Choice Is What To Play.md",
+    "content/Thoughts/Journey Through Note Taking.md",
+    "content/Thoughts/Challenges with Publishing Process.md",
+    "content/Thoughts",
+    "content/Concepts/How This Garden is Set Up.md",
+    "content/Concepts/Digital Garden - Terrace.md",
+    "content/Concepts",
+    "content/index.md",
+    "content/Brews/Daggerheart Campaign - 2025/Daggerheart Campaign - 2025.md",
+    "content/Brews/Campaign Ideas.md",
+    "content/Brews/Campaign Frames/Brasslands.md",
+    "content/Brews/Campaign Frames/Lux Universalis.md",
+    "content/Brews/Campaign Frames/Hollywood Magic.md",
+    "content/Brews/Campaign Frames/Happily Ever After.md",
+    "content/Brews/MCH Projects.md",
+    "public/index-og-image.webp",
+    "public/Thoughts/Why-Make-A-Digital-Garden-og-image.webp",
+    "public/Thoughts/The-First-Choice-Is-What-To-Play-og-image.webp",
+    "public/Thoughts/Publishing-Process-og-image.webp",
+    "public/Thoughts/Journey-Through-Note-Taking-og-image.webp",
+    "public/Thoughts/Challenges-with-Publishing-Process-og-image.webp",
+    "public/Concepts/How-This-Garden-is-Set-Up-og-image.webp",
+    "public/Concepts/Digital-Garden---Terrace-og-image.webp",
+    "public/Brews/The-Mountain/The-Mountain---PoC-og-image.webp",
+    "public/tags/projects/TheMountain.html",
+    "public/tags/projects",
+    "public/tags/projects.html",
+    "public/tags/playtest.html",
+    "public/Brews/Campaign-Frames/Something-Mobile-Suit-Adjacent.html",
+    "public/Brews/The-Mountain/index.html"
+  ]
+}
