@@ -8,7 +8,7 @@ Making a Digital Garden for Magic Coffeehouse will allow me to share ideas that 
 # Your Own Personal Wikipedia
 Eventually I may describe on here my [[Journey Through Note Taking|journey through note taking]], but the most relevant aspect to the question above is my use of  [Obsidian](https://obsidian.md/). I have been taking notes in Obsidian for over a year and it has felt like a revelation to my note taking habit. It’s allowed me to rediscover ideas and notes through the fun of hoping through links like you’re on Wikipedia. Paired with Digital Gardening, it now seems like there is a clear path to having an outlet for some of these ideas that could blossom into newer thoughts or [[MCH Projects|projects]].
 
-![[Obsidian_Graph_View_2025-10-11.png]] Image Caption
+![[Obsidian_Graph_View_2025-10-11.png]]
 
 ---
 
