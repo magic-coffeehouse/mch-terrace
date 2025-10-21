@@ -52,10 +52,7 @@ Read more about these tools on the [Daggerheart Website](https://www.daggerheart
 
 ## Player Tools
 [Daggerheart Character Builder](https://app.demiplane.com/nexus/daggerheart) | Digital Character Sheet App
-
 [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) | Guide towards using Obsidian to note take for your RPGs
-
 [Obsidian TTRPG Tutorials - Daggerheart](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Community+Supported+Games/Daggerheart/Daggerheart) | Specific resources around Daggerheart
-
 # Build A Map
 We can discuss how in depth as a group we’d like to be with the map making process. 

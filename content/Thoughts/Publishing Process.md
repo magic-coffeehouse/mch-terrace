@@ -10,7 +10,7 @@ tags:
 aliases:
 ---
 
-Based on [Quartz documentation](https://quartz.jzhao.xyz/authoring-content), all content for the site needs to reside in the `content` folder of the site. Since The Terrace acts as a public portion of my overall Obsidian vault, I go through a process of taking authored content and migrating it over to be published
+Based on [Quartz documentation](https://quartz.jzhao.xyz/authoring-content), all content for the site needs to reside in the `content` folder of the site. Since [[The Terrace at Magic Coffeehouse|The Terrace]] acts as a public portion of my overall Obsidian vault, I go through a process of taking authored content and migrating it over to be published
 
 1. Write authored content in personal vault
 2. Store content in folder called `Terrace`

@@ -5,6 +5,7 @@ Touchstones:
   - "[[Mobile Suit Gundam - The Witch From Mercury]]"
   - "[[The Prestige]]"
   - "[[Bauhaus]]"
+  - "[[Taliesin West]]"
 Player Principles:
   - 
 GM Principles:

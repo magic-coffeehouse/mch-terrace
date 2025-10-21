@@ -9,5 +9,4 @@ The idea of sharing some aspect (possibly all) of one’s linked notes. Specific
 
 # Links For Further Discovery
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history/)
-
 [[How This Garden is Set Up]]
