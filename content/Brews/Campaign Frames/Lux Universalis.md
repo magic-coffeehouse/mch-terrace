@@ -12,11 +12,6 @@ GM Principles:
   - 
 heroImg: https://cdna.artstation.com/p/assets/images/images/050/072/524/medium/epforcan-test-2-4-0.jpg
 ---
-DnD campaign idea where players are part of a school that's loosely based on [[Bauhaus]]. In this case, Design would be replaced with magic(?). Commentary on the world would still be paramount to the fantasy aspect of the story. 
-
-Teachers would try to teach "Good Design" in magic. One where use and purpose are considered thoughtfully. Additionally it would highlight collaboration (teamwork) and mechanically encourage creative solutions to Adventuring Problems. 
-
-Conflict would arise between two factions that think their use of Bauhaus teachings are "the right way". [[Gesamtkunstwerk]] that is bad for society (see [[Wagner's ideal for the Ring Cycle]])
 # The Pitch
 In the land where the great mountain meets the sea lies the greatest school in the world. Lux Universalis is open to any and all folk whose journey finds them on school grounds. 
 
