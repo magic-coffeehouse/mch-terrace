@@ -48,7 +48,8 @@ These are houses that have stood atop the podium at The Journey’s End.
 #### Games are Magic
 Magic in this world is powered by play and competition. The most powerful and pure form of magic is known as **Ludomancy**. 
 # Character Guidance 
-> For players to understand how to best interact with the world## Player Principles (Detailed)
+> [!info]
+> For players to understand how to best interact with the world
 
 ## Player Principles 
 

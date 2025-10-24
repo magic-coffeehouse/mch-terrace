@@ -37,9 +37,11 @@ The Celestial Sea is a High Seas High Fantasy adventure that will take players o
 ## Player Principles 
 ### Lean into Camp
 We are unserious pirates! If you have a choice pick the most fun one 
+
+![[Brasslands#Be Confident to Take Bold Action]]
+
 ### Interpersonal Dynamics
 Try to roleplay friction across the crew (including with other PCs), but alway aim to resolve your differences by the end of the "episode".
-
 ## GM Principles 
 ### Establish A Diverse World of People and Places
 
@@ -51,7 +53,9 @@ Boat stuff
 
 # [[Session Zero]]
 ## Build Map
-Secret to the players is that the sea is a very large pool surrounded by land in all but one semi large inlet to the Northwest. The sea is known to be so large that most people who try and map the space never return. 
+ ~~Secret to the players is that the sea is a very large pool surrounded by land in all but one semi large inlet to the Northwest. The sea is known to be so large that most people who try and map the space never return.~~ 
+ LOL well hiding spoilers isn’t as easy as I thought here 😅 
+ This part of Session Zero will consist of Mapping out your home base of an island and other known and rumored points of interest across the sea. 
 
 ## Inciting Incident
 How might the crew have come together, this could be played out in the first session or we can pick up the start as a fully formed crew. 
