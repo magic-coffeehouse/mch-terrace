@@ -11,10 +11,14 @@
             "id": "a9afd6022edb5ce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-09 System/01 Inbox/Clippings/Fake Video Games Can Be Just As Interesting As Real Ones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fake Video Games Can Be Just As Interesting As Real Ones"
             }
           }
         ]
@@ -164,6 +168,10 @@
   },
   "active": "a9afd6022edb5ce1",
   "lastOpenFiles": [
+    "00-09 System/01 Inbox/Clippings/Fake Video Games Can Be Just As Interesting As Real Ones.md",
+    "00-09 System/01 Inbox/Clippings",
+    "00-09 System/01 Inbox",
+    "00-09 System",
     "public/index-og-image.webp",
     "public/Ideas/Why-Make-A-Digital-Garden-og-image.webp",
     "public/Ideas/The-First-Choice-Is-What-To-Play-og-image.webp",
@@ -174,7 +182,6 @@
     "public/Concepts/Digital-Garden---Terrace-og-image.webp",
     "public/Brews/The-Mountain/The-Mountain---PoC-og-image.webp",
     "public/Brews/MCH-Projects-og-image.webp",
-    "public/Brews/Daggerheart-Campaign---2025/Sessions/Session-Zero-og-image.webp",
     "public/Ideas/Why-Make-A-Digital-Garden.html",
     "public/Ideas/The-First-Choice-Is-What-To-Play.html",
     "public/Ideas/Publishing-Process.html",
@@ -187,14 +194,11 @@
     "content/Ideas/Publishing Process.md",
     "content/Ideas/Journey Through Note Taking.md",
     "content/Ideas/Challenges with Publishing Process.md",
-    "content/Ideas",
-    "content/assets",
     "content/Thoughts/Why Make A Digital Garden.md",
     "content/Thoughts/Publishing Process.md",
     "content/Thoughts/The First Choice Is What To Play.md",
     "content/Thoughts/Journey Through Note Taking.md",
     "content/Thoughts/Challenges with Publishing Process.md",
-    "content/Thoughts",
     "content/Concepts/How This Garden is Set Up.md",
     "content/Concepts/Digital Garden - Terrace.md",
     "content/index.md",
